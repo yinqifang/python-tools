@@ -7,3 +7,5 @@ based on selenium web driver, support long screenshot and element screenshot. [g
 #### Features:
 * support screenshot on element
 * support long screenshot, will merge automatically
+### Image combine
+Combine some images to one. [go](image_tools)
